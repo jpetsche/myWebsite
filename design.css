@@ -1,0 +1,126 @@
+body {
+	background-color: black;
+}
+
+h1.pagetitle {
+	text-align: center;
+	color: white;
+	line-height: 0px;
+}
+
+h3.pagesubtitle {
+	text-align: center;
+	color: white;
+}
+
+h2.selfsum {
+	text-align: center;
+}
+
+h2.curred {
+	text-align: center;
+}
+
+div.schoolinfo {
+	line-height: 0px;
+	text-align: center;
+}
+
+h2.courses {
+	text-align: center;
+}
+
+ul.courseli {
+	text-align: left;
+}
+
+h2.projandact {
+	text-align: center;
+}
+
+div.hackisu {
+	text-align: left;
+}
+
+div.eras {
+	text-align: left;
+}
+
+h2.skills {
+	text-align: center;
+}
+
+h3.profic {
+	text-align: left;
+}
+
+ul.proli {
+	text-align: left;
+}
+
+h3.basekn {
+	text-align: left;
+}
+
+ul.baseli {
+	text-align: left;
+}
+
+h3.str {
+	text-align: left;
+}
+
+ul.strli {
+	text-align: left;
+}
+
+h2.exp {
+	text-align: center;
+}
+
+div.tutor {
+	text-align: left;
+}
+
+div.jp360 {
+	text-align: left;
+}
+
+div.asstech {
+	text-align: left;
+}
+
+div.lifeguard {
+	text-align: left;
+}
+
+h2.testscores {
+	text-align: center;
+}
+
+img.iowastate {
+	text-align: center;
+}
+
+h3.act {
+	text-align: center;
+}
+
+h4.actscore {
+	text-align: center;
+}
+
+#hr {
+	width: 70%;
+	height: 1px;
+	background: #fff;
+}
+
+div.section {
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),
+	0 2px 10px 0 rgba(0,0,0,0.12)!important;
+	margin: auto;
+	width: 75%;
+	background-color: #f1f1f1;
+	padding: 0.01em 16px;
+}
